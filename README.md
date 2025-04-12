@@ -57,14 +57,21 @@
 
 ###
 
-<h3 align="left">Some song that stays with me:</h3>
-
-###
+<h3 align="left">Some song that stays with me ❤️</h3>
 
 <div align="center">
   <a href="https://open.spotify.com/user/la8svlyttsn4gcmv368mvlsan">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=la8svlyttsn4gcmv368mvlsan&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+  <h3 align="left">You can help me by donating (if you want lol)</h3>
+    <a href="https://paypal.me/andreasc21" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+    <a href="https://sociabuzz.com/andreasc21/tribe" target="_blank">
+    <img src=https://seremonia.id/wp-content/uploads/2018/02/Image-Logo-SociaBuzz.png" width="157" height="40" alt="sociabuzz logo"  />
+  </a>
 
 ###
