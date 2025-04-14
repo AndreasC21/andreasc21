@@ -21,8 +21,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreasc21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=andreasc21&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasC21&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AndreasC21&theme=dracula&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
 ###
