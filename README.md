@@ -74,12 +74,3 @@
 </div>
 
 ###
-
-  <h3 align="left">You can help me by donating (if you want lol)</h3>
-    <a href="https://paypal.me/andreasc21" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
-    <a href="https://sociabuzz.com/andreasc21/tribe" target="_blank">
-    <img src=https://seremonia.id/wp-content/uploads/2018/02/Image-Logo-SociaBuzz.png" width="157" height="40" alt="sociabuzz logo"  />
-  </a>
-
-###
