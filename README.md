@@ -64,13 +64,3 @@
 </div>
 
 ###
-
-<h3 align="left">Some song that stays with me ❤️</h3>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/la8svlyttsn4gcmv368mvlsan">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=la8svlyttsn4gcmv368mvlsan&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
